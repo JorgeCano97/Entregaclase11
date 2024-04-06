@@ -181,3 +181,30 @@ padding: 80px 0;
         
 }
 
+.bodynoso {
+    height: 100vh;
+    background-color: rgb(237, 242, 246);
+    background-image: url( img/celular13.jpg);
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+    }
+
+
+    .bodynoso2 {
+        height: 100vh;
+        background-color: rgb(9, 9, 9);
+        background-image: url( img/movil14.jpg);
+        background-size: cover;
+        background-position: center;
+        color: rgb(8, 8, 8);
+        }
+
+        .bodynoso3 {
+            height: 100vh;
+            background-color: rgb(9, 9, 9);
+            
+            background-size: cover;
+            background-position: center;
+            color: rgb(154, 151, 151);
+            }
