@@ -12,11 +12,13 @@
 
 .carousel-item {
     min-height: 400px;
+    
 }
 
 .carousel-caption {
     bottom: 220px;
     z-index: 2;
+    
 }
 
 
@@ -139,7 +141,7 @@ padding: 80px 0;
 }
 
 @media (max-width: 767px) {
-    .carousel-item img {
+    .carousel-item  {
         min-height: 500px;
     }
 .carousel-item img { 
@@ -152,7 +154,7 @@ padding: 80px 0;
 
 .carousel-caption h5 {
     font-size: 50px;
-    margin-top: 0;
+    margin-top: 0px;
 }
 
 .carousel-caption p {
@@ -165,7 +167,7 @@ padding: 80px 0;
 }
 
 .product {
-    padding: 30px 0 0;
+    padding: 30px 0 0 0;
 
     
 
@@ -190,15 +192,16 @@ padding: 80px 0;
     color: aliceblue;
     }
 
-
     .bodynoso2 {
         height: 100vh;
-        background-color: rgb(9, 9, 9);
-        background-image: url( img/movil14.jpg);
+        background-color: rgb(237, 242, 246);
+        background-image: url( img/celular13.jpg);
         background-size: cover;
         background-position: center;
-        color: rgb(8, 8, 8);
+        color: aliceblue;
         }
+
+    
 
         .bodynoso3 {
             height: 100vh;
@@ -207,4 +210,8 @@ padding: 80px 0;
             background-size: cover;
             background-position: center;
             color: rgb(154, 151, 151);
+            }
+
+            .carousel-inner h5 { 
+                font-size: 32px;
             }
